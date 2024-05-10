@@ -16,7 +16,7 @@ It follows the standard structure of EMF projects:
 
 2) **Edit code project [keml.edit](https://gitlab.uni-koblenz.de/keml/keml.edit):** Originally generated project for general edit functionality (generating and changing KEML elements) heavily used on keml.editor. We did some customizations (own icons, functions defining when to use them) so that we recommend to install the project from Git. The standard generated version works just as well but is less pretty.
 
-3) **Editor project keml.editor:** Generated project, currently no Git instance exists - just run generate All on the Modeling project's central file. By executing this project as an Eclipse application a text-based editor for KEML files is started.
+3) **Editor project keml.editor:** Generated project, currently no Git instance exists - just run 'Generate' -> 'Editor code' on the Modeling project's central file. By executing this project as an Eclipse application a text-based editor for KEML files is started.
 
 4) **Graphical editor project [keml.design](https://gitlab.uni-koblenz.de/keml/keml.design):** WIP to generate a graphical (SIRIUS) editor for KEML files. Once done, executing this project as an Eclipse application will start a visual editor for KEML files.
 
