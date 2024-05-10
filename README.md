@@ -28,6 +28,22 @@ It follows the standard structure of EMF projects:
 
 More information about the subprojects is available in their respective ReadMes.
 
+## Support
+Support is currently offered by the main developer, Susanne Göbel under goebel@uni-koblenz.de.
+
+## Roadmap
+ * The graphical editor under keml.design is currently under construction
+* We also plan a tool for ad-hoc analysis of an on-going LLM conversation in the near future
+
+## Contributing
+We are open to contributors. Maybe you would like to write your bachelor's or master's thesis on KEML? Get in touch with Susanne Göbel goebel@uni-koblenz.de.
+
+## Authors and acknowledgment
+Show your appreciation to those who have contributed to the project.
+
+## License
+KEML is currently on-going research. You are allowed to use this group's projects for the course or thesis for which you registered with us but cannot share it  outside. The license is planned to be adapted (and much widened) as soon as we can publish KEML. But currently, please handle it with care.
+
 ## Credits
 
 Group icon by <a href="https://www.flaticon.com/free-icons/camel" title="camel icons">Camel icons created by Freepik - Flaticon</a>
