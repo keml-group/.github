@@ -24,6 +24,8 @@ It follows the standard structure of EMF projects:
 
 6) **Analysis of KEML files [keml.analysis](https://gitlab.uni-koblenz.de/keml/keml.analysis):** This project can run independently of the Eclipse environment. It generates statistical information in various formats about an input KEML file.
 
+7) **KEML (and yEd) samples [keml.sample](https://gitlab.uni-koblenz.de/keml/keml.sample):** Example files including yEd graphical representations and KEML files.
+
 More information about the subprojects is available in their respective ReadMes.
 
 ## Credits
