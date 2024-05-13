@@ -38,11 +38,9 @@ Support is currently offered by the main developer, Susanne Göbel under goebel@
 ## Contributing
 We are open to contributors. Maybe you would like to write your bachelor's or master's thesis on KEML? Get in touch with Susanne Göbel goebel@uni-koblenz.de.
 
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
-
 ## License
-KEML is currently on-going research. You are allowed to use this group's projects for the course or thesis for which you registered with us but cannot share it  outside. The license is planned to be adapted (and much widened) as soon as we can publish KEML. But currently, please handle it with care.
+
+The KEML project is subject to (C) 2023-2024, SoftLang Research Team, University of Koblenz, Faculty of CS, contact Susanne Göbel or Ralf Lämmel. Restricted access. Do not share. Access is currently only granted by the copyright holders as part of research and teaching activities involving the SoftLang Team at the University of Koblenz. Less restricting sharing and copy righting is deferred for now.
 
 ## Credits
 
