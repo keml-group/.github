@@ -38,7 +38,8 @@ We are open to contributors. Maybe you would like to write your bachelor's or ma
 
 ## License
 
-The KEML project is subject to (C) 2023-2024, SoftLang Research Team, University of Koblenz, Faculty of CS, contact Susanne Göbel or Ralf Lämmel. Restricted access. Do not share. Access is currently only granted by the copyright holders as part of research and teaching activities involving the SoftLang Team at the University of Koblenz. Less restricting sharing and copy righting is deferred for now.
+The KEML project is subject to (C) 2023-2024, SoftLang Research Team, University of Koblenz, Faculty of CS, contact Susanne Göbel or Ralf Lämmel. It is provided under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
+Basically, you are free to share and adapt the material as long as you give proper credit to us and our project. Feel free to include KEML into your research but please cite us, especially our [introductory paper](https://doi.org/10.1145/3652620.3687809).
 
 ## Credits
 
