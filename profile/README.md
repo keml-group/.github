@@ -5,7 +5,7 @@ This project contains all relevant modules of the domain-specific language KEML 
 ## Motivation for KEML
 We design KEML to document and analyse the interaction with LLMs and potentially more conversation partners. Our main concern is the trust into single pieces of information we receive by the LLM or other sources.
 
-Some introductory slides also explaining the case study that started this research are available online.
+A rough explanation of the language is available on the ReadMe of the [metamodel of KEML](https://github.com/keml-group/keml). An in depth introduction of KEML will be available in our [introductory paper](https://doi.org/10.1145/3652620.3687809) - that will be published in September 2024.
 
 ## Structure and Technological Basis
 
