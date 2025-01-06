@@ -5,7 +5,7 @@ This project contains all relevant modules of the domain-specific language KEML 
 ## Motivation for KEML
 We design KEML to document and analyse the interaction with LLMs and potentially more conversation partners. Our main concern is the trust into single pieces of information we receive by the LLM or other sources.
 
-A rough explanation of the language is available on the ReadMe of the [metamodel of KEML](https://github.com/keml-group/keml). An in depth introduction of KEML will be available in our [introductory paper](https://doi.org/10.1145/3652620.3687809) - that will be published in September 2024.
+A rough explanation of the language is available on the ReadMe of the [metamodel of KEML](https://github.com/keml-group/keml). An in depth introduction of KEML is available in our [introductory paper](https://doi.org/10.1145/3652620.3687809).
 
 ## Structure and Technological Basis
 
@@ -14,7 +14,7 @@ It follows the standard structure of EMF projects:
 
 1) **Modeling project [keml](https://github.com/keml-group/keml):** The central definition of the .ecore file. The two projects edit and editor can be generated in Eclipse just based on this file. Since edit had some customizations, it is recommended to fork it from this GitLab group.
 
-2) **Edit code project [keml.edit](https://github.com/keml-group/keml.edit):** Originally generated project for general edit functionality (generating and changing KEML elements) heavily used on keml.editor. We did some customizations (own icons, functions defining when to use them) so that we you can install the project from Git if you want to use them. The standard generated version works just as well but is less pretty.
+2) **Edit code project keml.edit:** While a customized version with own icons exists on [keml.edit ARCHIVE](https://github.com/keml-group/keml.edit), its maintenance has stopped. We hence recommend that you use the normal generated version: Just run 'Generate' -> 'Edit code' on the Modeling project's central file. The edit code is a prerequiste for other projects, including the editor and IO as well as analysis.
 
 3) **Editor project keml.editor:** Generated project, currently no Git instance exists - just run 'Generate' -> 'Editor code' on the Modeling project's central file. By executing this project as an Eclipse application a text-based editor for KEML files is started.
 
@@ -27,13 +27,16 @@ It follows the standard structure of EMF projects:
 More information about the subprojects is available in their respective ReadMes.
 
 ## Support
+
 Support is currently offered by the main developer, Susanne Göbel under goebel@uni-koblenz.de.
 
 ## Roadmap
+
 * A graphical web-based editor for KEML files is currently under construction. Since the project is in an early state, it is not shared publically yet.
-* We also plan a tool for ad-hoc analysis of an on-going LLM conversation in the near future
+* We also plan a tool for ad-hoc analysis of an on-going LLM conversation in the near future.
 
 ## Contributing
+
 We are open to contributors. Maybe you would like to write your bachelor's or master's thesis on KEML? Get in touch with Susanne Göbel goebel@uni-koblenz.de.
 
 ## License
