@@ -7,6 +7,8 @@ We design KEML to document and analyse the interaction with LLMs and potentially
 
 A rough explanation of the language is available on the ReadMe of the [metamodel of KEML](https://github.com/keml-group/keml). An in depth introduction of KEML is available in our [introductory paper](https://doi.org/10.1145/3652620.3687809).
 
+There is also a [KEML web-editor](https://keml-group.github.io/web-editor/) that is publicly available for free. Here, users can create and edit their KEML files in a web GUI.
+
 ## Structure and Technological Basis
 
 KEML is an [Eclipse EMF project](https://projects.eclipse.org/projects/modeling.emf.emf) meaning it consists of a set of Eclipse Plugins that create several handy editors and analyzers for KEML files.
